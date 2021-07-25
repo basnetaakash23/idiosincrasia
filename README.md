@@ -11,6 +11,8 @@
 
 <!-- replace x.x.x with actual version -->
 <details>
+  <!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/skills-chart@0.9.20/codersrank-skills-chart.min.js"></script>
 
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
