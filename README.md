@@ -15,9 +15,7 @@
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/idiosincrasia/'>
-  <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idiosincrasia&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
-/>
+  <codersrank-skills-chart username="idiosincrasia"></codersrank-skills-chart>
   </a>
 
 </details>
