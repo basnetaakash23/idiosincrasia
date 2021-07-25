@@ -9,3 +9,9 @@
 - [How can we send aws address in my local machine to jenkins image run in docker container?](https://stackoverflow.com/questions/58902669/how-can-we-send-aws-address-in-my-local-machine-to-jenkins-image-run-in-docker-c)
 <!-- STACKOVERFLOW:END -->
 
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/skills-chart@0.9.20/codersrank-skills-chart.min.js"></script>
+
+<codersrank-skills-chart username="Aakash basnet"></codersrank-skills-chart>
+
+
