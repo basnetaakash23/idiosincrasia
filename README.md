@@ -1,5 +1,11 @@
 :metal:  :exclamation:
 
+ <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/idiosincrasia/'>
+    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=idiosincrasia&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
+
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Issue running chrome driver in docker image](https://stackoverflow.com/questions/67613879/issue-running-chrome-driver-in-docker-image)
@@ -10,17 +16,13 @@
 <!-- STACKOVERFLOW:END -->
 
 <!-- replace x.x.x with actual version -->
-<details>
+
   <!-- replace x.x.x with actual version -->
 
 
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/idiosincrasia/'>
-    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=idiosincrasia&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
+ 
 
-</details>
+
 
 
 
