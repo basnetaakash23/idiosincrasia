@@ -12,12 +12,14 @@
 <!-- replace x.x.x with actual version -->
 <details>
   <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/skills-chart@0.9.20/codersrank-skills-chart.min.js"></script>
+
 
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/idiosincrasia/'>
-  <codersrank-skills-chart username="idiosincrasia"></codersrank-skills-chart>
+     <img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idiosincrasia&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
   </a>
 
 </details>
