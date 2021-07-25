@@ -3,7 +3,7 @@
  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/idiosincrasia/'>
-    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=idiosincrasia&padding=30&skills=Python,Java,C&show-other-skills=true'>
+    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=idiosincrasia&padding=30&skills=Python,Java,C,JavaScript,Flask&show-other-skills=true'>
   </a>
  
   
