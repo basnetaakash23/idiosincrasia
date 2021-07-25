@@ -10,8 +10,13 @@
 <!-- STACKOVERFLOW:END -->
 
 <!-- replace x.x.x with actual version -->
+<details>
 <script src="https://unpkg.com/@codersrank/skills-chart@0.9.20/codersrank-skills-chart.min.js"></script>
 
 <codersrank-skills-chart username="Aakash basnet"></codersrank-skills-chart>
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Aakash basnet&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
+  </details>
 
 
