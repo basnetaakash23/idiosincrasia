@@ -4,7 +4,7 @@
   <br/>
   <a href='https://profile.codersrank.io/user/idiosincrasia/'>
    <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YOUR_USERNAME&skills=JavaScript,TypeScript&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idiosincrasia&skills=JavaScript,TypeScript&show-other-skills=true"
 />
 
   </a>
